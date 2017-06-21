@@ -1,0 +1,16 @@
+namespace TimeCareScheduler.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class ChangedDataTypeDataTypeDatefortesting : DbMigration
+    {
+        public override void Up()
+        {
+        }
+        
+        public override void Down()
+        {
+        }
+    }
+}
